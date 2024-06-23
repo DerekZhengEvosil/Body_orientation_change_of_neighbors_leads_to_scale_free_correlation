@@ -2,7 +2,7 @@
 In this repository, we have included the codes and example data capable of reproducing the primary content found in both the main text and supplementary information. 
 Additionally, we have provided the codes to reproduce the simulation experiments of collective spin and collective turn in [pybullet simulator](https://github.com/bulletphysics/bullet3).
 Moreover, due to the technical complexity involved in developing code for microcontrollers with C++, which may pose challenges for researchers without experience in embedded systems development when attempting to use the SwarmBang robot, we have provided the similar robotic control code based on pybullet simulators with the 3D physics model of our robots. 
-The provided programs mirror the codes used in the server computer and microcontrollers to control the motion of robots, ensuring a close alignment of kinematic characteristics between simulation and real robot experiments.
+The provided codes mirror the control approach used in SwarmBang robots, ensuring a close alignment of kinematic characteristics between simulation and real robot experiments.
 Furthermore, we divided the codes into 8 parts to reproduce the results of our work: 1) results of empirical data analysis; 2) simulation results of collective spin; 3) results of collective turn; 3) simulation codes for collective spin; 4) simulation codes for collective turn; 5) results of robotic experiments; 6) the 3D physics model of SwarmBang robots; 7) requisite data; 8) tool codes.
 
 ## Software requirements
