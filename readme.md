@@ -97,7 +97,7 @@ There are several important works which support this project:
 *   [Correlation function](https://www.nature.com/articles/s41467-019-13281-4#data-availability)
 *   [Information transfer distance/speed](https://rs.figshare.com/collections/Supplementary_material_from_Collective_turns_in_jackdaw_flocks_kinematics_and_information_transfer_/4695539)
 *   [Pinhole camera model](https://github.com/francelo/Visual-Servoing-IBVS-vs-PBVS)
-*   [Crameri,Scientific colour maps (7.0.1)](https://doi.org/10.5281/zenodo.5501399](https://doi.org/10.5281/zenodo.5501399)
+*   [Crameri, Scientific colour maps (7.0.1)] (https://doi.org/10.5281/zenodo.5501399](https://doi.org/10.5281/zenodo.5501399)
 
 ## Licence
 
