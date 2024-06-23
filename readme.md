@@ -78,7 +78,7 @@ Additionally, the codes for simulating vision-based sensing of robots by the pin
 
 In the folder of models, we provided the 3D physics model of SwarmBang robots with the URDF file and the relevant STL file. Based on the 3D physics model, we can simulate the collisions among robots in the pybullet simulator.
 In the folder of "toy\_SwarmBangRobot", we provided the example codes on how to use our 3D physics model of  Swarmbang robots in the pybullet simulator.
-![3D\_physics\_model\_of\_SwarmBang\_robots](3D_physics_model_of_SwarmBang_robots.jpg).
+![3D\_physics\_model\_of\_SwarmBang\_robots](3D_physics_model_of_SwarmBang_robots.jpg)
 
 ## Data
 
