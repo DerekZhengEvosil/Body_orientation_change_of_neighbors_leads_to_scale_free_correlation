@@ -33,7 +33,7 @@ By using the code "draw\_spatial\_distribution\_turning\_rank.m", we can reprodu
 By using the code "draw\_effect\_aspect\_ratio.m", we can validate the effect of aspect ratio on the empirical analysis.
 By using the code "draw\_corr\_Lt\_turning\_rank.m", we can validate the effectiveness of L\_t in empirical analysis.
 
-![Example\_of\_empirical\_data\_analysis](empirical_data_analysis.png)
+![Example\_of\_empirical\_data\_analysis](Empirical_data_analysis.png)
 
 ## Collective spin results
 
