@@ -1,8 +1,6 @@
 import numpy as np
 import itertools as it
 import sys
-import matplotlib.pyplot as plt
-from matplotlib.patches import Ellipse, Polygon, FancyArrowPatch
 
 def _get_tangent_point_parameter(w, r, theta, phi, fish_BL):
     '''calculates where the tangent points lie on the ellipse, return the corresponding angles,
