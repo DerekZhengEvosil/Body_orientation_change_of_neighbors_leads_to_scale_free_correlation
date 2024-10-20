@@ -1,1 +1,0 @@
-Due to the model of swarmBang robot are involeved in other unpublished work, the 3D model can be obtained through the corresponding author with reasonable request.
