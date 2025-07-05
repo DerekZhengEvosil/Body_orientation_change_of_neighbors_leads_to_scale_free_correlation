@@ -82,8 +82,6 @@ In the folder of "toy\_SwarmBangRobot", we provided the example codes on how to 
 In the folder of Data, we provided example data of empirical data analysis, simulation experiments, and the robotic experiments to reproduce the relevant results of this work. All the raw data of robotic experiments are provided in this folder, which contains the positions and velocities of robots recorded by the motion capture system.
 
 ## Utility
-
-All the tool codes can be found in the folder of Utility, e.g., the calculation of directional correlation function, correlation length, response accuracy and responsiveness, etc.
 Noted: Please make sure that you have installed the Matlab visualization toolbox-Gramm. If not, please download it from "<https://github.com/piermorel/gramm>".
 
 ## Acknowledgements
