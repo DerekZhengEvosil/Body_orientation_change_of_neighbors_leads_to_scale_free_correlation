@@ -26,9 +26,6 @@ pip install -r requirements.txt
 
 ## Empirical data analysis
 
-By using the code "empirical\_analysis.m" and "draw\_distribution\_of\_rho.m", we can reproduce the results as follows: For a given U-turn trajectory and the time 𝑇 = 2.82 and time delay 𝜏 = 0.6, we could construct the BOC matrix and the leader-follower network within this period trajectory \[2.22s, 2.82s]. The analyzed part of the trajectory is drawn with a gradient color.
-Consequently, we derived the average BOC and leadership of each individual, respectively. Interestingly, two vectors composed of  and  show highly positive correlation.
-Finally, we performed the Spearman correlation (𝜌) between two vectors over the diﬀerent combinations of 𝑇 and 𝜏. The distribution of 𝜌 over diﬀerent combinations of 𝑇 and 𝜏 for BOC, distance and bearing change with 𝛼 = 0, 𝛼 = 1 and 𝛼 = 10, respectively.
 By using the code "draw\_spatial\_distribution\_turning\_rank.m", we can reproduce the front-to-back information transfer direction during U-turn.
 By using the code "draw\_effect\_aspect\_ratio.m", we can validate the effect of aspect ratio on the empirical analysis.
 By using the code "draw\_corr\_Lt\_turning\_rank.m", we can validate the effectiveness of L\_t in empirical analysis.
